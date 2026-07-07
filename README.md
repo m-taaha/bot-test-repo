@@ -4,3 +4,7 @@ testing .. nowwwwwwww
 ----- 
 testing phase 3 --- againnn.... once more
 ... testing .. phase 4 with redis
+
+
+-------
+checking the ai phase
