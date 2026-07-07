@@ -8,4 +8,5 @@ function getUser(id: string) {
 function divide(a: number, b: number) {
   return a / b;
 }
-// trigger
+// trigger-----check
+
